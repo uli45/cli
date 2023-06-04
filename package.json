@@ -1,0 +1,39 @@
+{
+  "name": "uli-cli",
+  "version": "1.0.2",
+  "description": "一个快速搭建vue3+ts+element-plus项目的脚手架",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "./bin/index.js",
+  "bin": {
+    "uli-cli": "./bin/index.js"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "keywords": [
+    "cli",
+    "vue3脚手架",
+    "create-ucli"
+  ],
+  "author": "uli",
+  "type": "commonjs",
+  "license": "MIT",
+  "repository": {
+    "type": "git"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "child_process": "^1.0.2",
+    "commander": "^9.4.1",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^11.1.0",
+    "inquirer": "^8.0.0",
+    "log-symbols": "^4.0.0",
+    "ora": "^5.0.0",
+    "path": "^0.12.7",
+    "update-notifier": "^4.0.0"
+  }
+}
