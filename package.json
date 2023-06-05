@@ -1,13 +1,13 @@
 {
   "name": "uli-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "一个快速搭建vue3+ts+element-plus项目的脚手架",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "main": "./bin/index.js",
   "bin": {
-    "uli-cli": "./bin/index.js"
+    "uli": "./bin/index.js"
   },
   "files": [
     "bin",
