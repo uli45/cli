@@ -54,7 +54,9 @@ uli create  xxx  //xxx为项目名称
 
 - 5， 终端 登陆npm  `npm login`
   
-- 6, 执行 `npm publish` 发布包到npm 
+- 6, 执行 `npm publish` 发布包到npm  发布成功如图
+
+  ![发布成功如图](https://uli-1312516416.cos.ap-guangzhou.myqcloud.com/uli-cli-4.png)
 
 - 7,最后你就拥有了一个属于自己的`cli` 
 
