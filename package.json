@@ -1,6 +1,6 @@
 {
   "name": "uli-cli",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "一个快速搭建vue3+ts+element-plus项目的脚手架",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
